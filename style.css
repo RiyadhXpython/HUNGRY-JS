@@ -63,7 +63,7 @@ body{
     font-family: inherit;
     outline: 0;
     border: 1px solid black;
-    color: #CCCCFF;
+    color:black;
     border-top-left-radius: 2rem;
     border-bottom-left-radius: 2rem;
 }
